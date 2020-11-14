@@ -1,4 +1,4 @@
-# Neurotech@Berkeley Fall 2020 NMEP Final Project
+# Neurotech@Berkeley Fall 2020 NMEP EEG Group 1 Final Project
 
 **Dataset**: [An EEG dataset recorded during affective music listening](https://openneuro.org/datasets/ds002721/versions/1.0.1)
 
