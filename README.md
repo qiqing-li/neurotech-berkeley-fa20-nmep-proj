@@ -2,7 +2,7 @@
 
 Dataset: [An EEG dataset recorded during affective music listening](https://openneuro.org/datasets/ds002721/versions/1.0.1)
 
-Reference Paper: [Neural and physiological data from participants listening to affective music] (https://www.nature.com/articles/s41597-020-0507-6)
+Reference Paper: [Neural and physiological data from participants listening to affective music](https://www.nature.com/articles/s41597-020-0507-6)
 
 
 References:
