@@ -1,7 +1,9 @@
 **Neurotech@Berkeley Fall 2020 NMEP Final Project**
 
 Dataset: [An EEG dataset recorded during affective music listening](https://openneuro.org/datasets/ds002721/versions/1.0.1)
+
 Reference Paper: [Neural and physiological data from participants listening to affective music] (https://www.nature.com/articles/s41597-020-0507-6)
+
 
 References:
 [1] Daly, I., Nicolaou, N., Williams, D., Hwang, F., Kirke, A., Miranda, E., Nasuto, S.J., “Neural and physiological data from participants listening to affective music”, Scientific Data, 2018.
